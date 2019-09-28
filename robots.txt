@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aifeelieh.tomatotim.com/sitemap.xml
